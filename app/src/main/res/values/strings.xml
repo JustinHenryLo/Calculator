@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fist Application</string>
+    <string name="one">one\n(1)</string>
+    <string name="two">two\n(2)</string>
+    <string name="three">three\n(3)</string>
+    <string name="four">four\n(4)</string>
+    <string name="five">five\n(5)</string>
+    <string name="six">six\n(6)</string>
+    <string name="seven">seven\n(7)</string>
+    <string name="eight">eight\n(8)</string>
+    <string name="nine">nine\n(9)</string>
+    <string name="zero">zero\n(0)</string>
+    <string name="plus">plus\n(+)</string>
+    <string name="equal">equal\n(=)</string>
+</resources>

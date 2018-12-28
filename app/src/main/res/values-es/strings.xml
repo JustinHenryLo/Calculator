@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name ="app_name">Primero Aplicacion</string>
+    <string name="one">uno\n(1)</string>
+    <string name="two">dos\n(2)</string>
+    <string name="three">tres\n(3)</string>
+    <string name="four">cuatro\n(4)</string>
+    <string name="five">cinco\n(5)</string>
+    <string name="six">seis\n(6)</string>
+    <string name="seven">siete\n(7)</string>
+    <string name="eight">ocho\n(8)</string>
+    <string name="nine">nueve\n(9)</string>
+    <string name="zero">cero\n(0)</string>
+    <string name="plus">mas\n(+)</string>
+    <string name="equal">igual\n(=)</string>
+</resources>
